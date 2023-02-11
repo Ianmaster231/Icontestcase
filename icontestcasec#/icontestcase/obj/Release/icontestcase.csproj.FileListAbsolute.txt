@@ -1,0 +1,6 @@
+C:\Users\zammi\source\repos\icontestcase\icontestcase\bin\Release\icontestcase.exe.config
+C:\Users\zammi\source\repos\icontestcase\icontestcase\bin\Release\icontestcase.exe
+C:\Users\zammi\source\repos\icontestcase\icontestcase\bin\Release\icontestcase.pdb
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Release\icontestcase.csproj.CoreCompileInputs.cache
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Release\icontestcase.exe
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Release\icontestcase.pdb

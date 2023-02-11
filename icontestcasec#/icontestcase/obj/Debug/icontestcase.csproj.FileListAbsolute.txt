@@ -1,0 +1,7 @@
+C:\Users\zammi\source\repos\icontestcase\icontestcase\bin\Debug\icontestcase.exe.config
+C:\Users\zammi\source\repos\icontestcase\icontestcase\bin\Debug\icontestcase.exe
+C:\Users\zammi\source\repos\icontestcase\icontestcase\bin\Debug\icontestcase.pdb
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Debug\icontestcase.csproj.AssemblyReference.cache
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Debug\icontestcase.csproj.CoreCompileInputs.cache
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Debug\icontestcase.exe
+C:\Users\zammi\source\repos\icontestcase\icontestcase\obj\Debug\icontestcase.pdb
